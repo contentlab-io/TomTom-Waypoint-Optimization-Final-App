@@ -74,7 +74,7 @@
         }
     ],
     "options": {
-        "travelMode": "car",
+        "travelMode": "truck",
         "vehicleLength": 10,
         "vehicleWidth": 3,
         "vehicleHeight": 7,
